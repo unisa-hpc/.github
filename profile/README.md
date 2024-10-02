@@ -1,1 +1,1 @@
-# UNISA HPC
+Welcome! We’re a research group at the University of Salerno passionate about High-Performance Computing, graph analytics, AI, energy-efficient systems, RISC-V, and MPI. Our goal is to develop innovative and practical solutions that contribute to both academic research and real-world applications. Explore our projects and see how we’re working to advance the future of computing!
