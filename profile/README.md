@@ -1,1 +1,9 @@
-Hi there! We’re a research group at the University of Salerno, focusing on high-performance computing. Our work dives into cool areas like graph analytics, AI, energy-efficient computing, RISC-V, and MPI. We’re all about pushing the limits of computing while finding practical solutions for real-world challenges. Explore our projects and see how we’re working to advance the future of computing!
+This is the github reference page for Prof. Cosenza's research team at the University of Salerno, Italy. The team is part of the ISISLab at the Department of Computer Science of the University of Salerno. 
+Our research focuses on various topics related to high performance computing, from programming models to applications. Here you can find our highlighted project repos:
+- SYnergy https://github.com/unisa-hpc/SYnergy
+- SYnergy models https://github.com/unisa-hpc/SYnergy-models
+- SYnergy artifact evaluation at SC23
+- EMPI https://github.com/unisa-hpc/empi
+- OpenMPI for EMPI https://github.com/unisa-hpc/OMPI4EMPI
+- EMPI artifact evaluation at CCGrid23 https://github.com/unisa-hpc/empi_ccgrid_ae
+- SYCL-Bench 2020 https://github.com/unisa-hpc/sycl-bench
